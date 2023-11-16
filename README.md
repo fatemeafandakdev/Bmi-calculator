@@ -1,6 +1,7 @@
 # Bmi-calculator
 
-[Demo project]()
+[Demo project](https://fatemeafandakdev.github.io/Bmi-calculator/)
+
 Developed by Fateme Afandak
 
 Technologies Used - Html , css , js, bootstrap
